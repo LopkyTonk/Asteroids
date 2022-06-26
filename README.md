@@ -1,8 +1,8 @@
 # Asteroids
 ## Build
-Compile on windows asteroids.cpp and standard.hlsl (max version 6.0) to pixel and vertex shader (standard.ps and standard.vs respectively).
+Compile on windows /code/asteroids.cpp and /code/standard.hlsl (max version 6.0) to pixel and vertex shader (standard.ps and standard.vs respectively).
 
-Make sure that laser.wav and explosion.wav are in the same directory as executable!
+Make sure that standard.ps, standard.vs, /data/laser.wav and /data/explosion.wav are in the same directory as executable!
 
 ## Controls
 ### Movement
